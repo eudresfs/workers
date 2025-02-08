@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "flows",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a7077fe4-8a62-4f7f-a3f1-bda4107f28fa",
+      "database_name": "flows-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
